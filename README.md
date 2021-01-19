@@ -12,6 +12,10 @@
 ### 사용언어
 - Python
 
+### 사용 데이터
+- Classification : http://archive.ics.uci.edu/ml/datasets/Bank+Marketing#
+- Clustering : https://www.kaggle.com/worldbank/world-development-indicators
+
 ### 사용 라이브러리
 - pandas
 - numpy
