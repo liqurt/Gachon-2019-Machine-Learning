@@ -21,4 +21,4 @@
 - pylab
 
 ### 개발 툴
-- Android Studio
+- Pycharm
